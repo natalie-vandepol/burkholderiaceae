@@ -1,5 +1,7 @@
 # FriPan
 
+**MOVED TO [https://github.com/drpowell/FriPan]**
+
 ## Introduction
 FriPan is a web-based tool for exploring the pan-genome of multiple bacterial genomes. FriPan does not perform the ortholog clustering itself, but it can import data from ProteinOrtho5 output files. Each isolate/strain is a row, and there is a columnar position for each gene cluster. You can zoom/scroll through the pan-proteome, and hover over sections to see a description of the gene. 
 
